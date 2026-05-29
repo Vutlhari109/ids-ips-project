@@ -1,6 +1,6 @@
  # Intrusion Detection System and Intrusion Prevention System ( IDS/IPS ) Project
 
- # What Is This Project?
+ ## What Is This Project?
 
  A hands-on IDS/IPS Project using Suricata CLI version to detect and prevent intrusions on a Linux VPS Server, this projects demonstrate my skills in Detecting and Preventing intrusions in real time using rulesets configured on an IDS/IPS tool
 
